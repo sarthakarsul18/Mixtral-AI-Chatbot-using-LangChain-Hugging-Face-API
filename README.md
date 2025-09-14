@@ -28,10 +28,10 @@ An **AI-powered conversational chatbot** built using **LangChain**, **Hugging Fa
 
 1️⃣ **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/Mixtral-AI-Chatbot.git
+git clone https://github.com/yourusername/Mixtral-AI-Chatbot.git](https://github.com/sarthakarsul18/Mixtral-AI-Chatbot-using-LangChain-Hugging-Face-API
 ```
 ```
-cd Mixtral-AI-Chatbot
+cd Mixtral-AI-Chatbot-using-LangChain-Hugging-Face-API
 ```
 
 2️⃣ **Install dependencies**
